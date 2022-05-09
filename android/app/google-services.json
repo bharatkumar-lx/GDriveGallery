@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "352176603330",
+    "project_id": "rnproject-26287",
+    "storage_bucket": "rnproject-26287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352176603330:android:9e5aac6b832c62201b7b5b",
+        "android_client_info": {
+          "package_name": "com.gdrivegallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352176603330-s4tj27j0iarpvn4k3nnaioo66gg8qq5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6ndFRaN0t8qRxhjhMm3_FwFl0lWyyFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352176603330-s4tj27j0iarpvn4k3nnaioo66gg8qq5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352176603330-81qihqtrdmutkprtmql5676o60dkr1ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gdrivegallery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "GdriveGallery",
+  "displayName": "GdriveGallery",
+  "plugins": ["@react-native-google-signin/google-signin"]
+}
