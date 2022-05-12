@@ -37,7 +37,7 @@
         'https://www.googleapis.com/auth/drive.apps.readonly',
         'https://www.googleapis.com/auth/drive.photos.readonly',
       ], // [Android] what API you want to access on behalf of the user, default is email and profile
-       webClientId: '352176603330-s4tj27j0iarpvn4k3nnaioo66gg8qq5j.apps.googleusercontent.com', // client ID of type WEB for your server (needed to verify user ID and offline access)
+       webClientId: '', // client ID of type WEB for your server (needed to verify user ID and offline access)
        offlineAccess: true, // if you want to access Google API on behalf of the user FROM YOUR SERVER
        hostedDomain: '', // specifies a hosted domain restriction
        forceCodeForRefreshToken: true, // [Android] related to `serverAuthCode`, read the docs link below *.
